@@ -8,11 +8,10 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!22");
-<<<<<<< HEAD
             Console.WriteLine("Hello World!33");
             Console.WriteLine("Bye World!");
-=======
->>>>>>> main
+            Console.WriteLine("Hello World!");
+
         }
     }
 }
